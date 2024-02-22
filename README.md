@@ -4,12 +4,6 @@
 
 Create a new landing page for the Fix Health website with a focus on simplicity and user engagement. The landing page will be based on a dark theme and feature essential sections, each carefully designed for an optimal user experience.
 
-### Deployments: 
-- **Vercel:** [Link](https://fetask-fixhealth-avinash.vercel.app/)
-
-- **Github:** [Link](https://github.com/Avi2492/Frontendtask_Avinash_Pandey)
-
-- **CodeSandbox:** [Link](https://codesandbox.io/p/github/Avi2492/Frontendtask_Avinash_Pandey/draft/vibrant-noether?workspaceId=ce547b4a-ff9b-4361-82ab-4d5cef424854)
 
 ### Tech Stack:
 
